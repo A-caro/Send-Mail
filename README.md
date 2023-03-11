@@ -1,2 +1,2 @@
 # Send-Mail
-Send Mail using Java
+Send Mail
